@@ -1,0 +1,44 @@
+/* add your CSS here */
+body {
+    font-family: Times, 'Times New Roman', serif;
+    padding: 20px;
+    font-size: small;
+    background: #fff;
+}
+
+h3 {
+    font-size:x-large;
+}
+
+.italic {
+    font-style: italic;
+}
+
+img {
+    width: 300px;
+    text-align: center;
+}
+
+.card {
+    width: 300px;
+    border: 1px solid lightgrey;
+    box-shadow: 5px 6px lightgray;
+    padding: 10px;
+    border-radius: 10px;
+    background-color: beige;
+}
+
+.border {
+    border: 1px solid lightgrey;
+    width: 280px;
+    padding: 10px;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+}
+
+span {
+    font-weight: bold;
+}
